@@ -19,4 +19,12 @@
     "project-repo": "https://github.com/wagmi-dev/viem",
     "contributors": ["RexCloud"]
   }
+{
+  "contributors": [
+    {
+      "name": "Maksutka666",
+      "github": "maksutka666",
+      "contribution": "Added myself to contributors list and starred the repository",
+      "evm_address": "0xd237a8F8549780F769388bdF61cbaF9f3a9387a3"
+    }
 ]
